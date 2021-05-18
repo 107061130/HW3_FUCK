@@ -1,5 +1,5 @@
 # HW3
-RPC LOOP(mode = 0)
+RPC LOOP(mode = 0)\n
 type UI/run will enter UI_gesture mode(mode = 1)
 use gesture to select angle
 ring is 30 degree
